@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+      "esbenp.prettier-vscode",
+      "PKief.material-icon-theme",
+      "rocketseat.theme-omni",
+      "ritwickdey.LiveServer"
+      "editor.cursorSurroundingLines": 15,
+      "editor.cursorStyle": "underline",
+      "editor.cursorSmoothCaretAnimation": true,
+      "editor.cursorBlinking": "phase"
+    ]
+    
+  }
+  
