@@ -30,6 +30,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
+## 📖 Aprendizado
+
+Como primeiro contato com programação pude aprender muito bem como funciona a linguagem e estou praticando mais para conseguir desenvolver cada vez mais projetos junto a RocketSeat.
+
 ## 💻 Projeto
 
 DevLinks é um agregador de links responsivo e com troca de tema que você pode usar como cartão de visitas nas suas redes sociais.
